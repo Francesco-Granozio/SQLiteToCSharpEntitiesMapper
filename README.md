@@ -1,4 +1,4 @@
-### 🇮🇹🇮🇹🇮🇹 Italiano:
+### :it: :it: :it: Italiano:
 
 # SQLiteToCSharpEntitiesMapper
 
