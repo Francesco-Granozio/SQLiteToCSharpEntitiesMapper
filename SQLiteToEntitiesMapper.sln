@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteToEntitiesMapper", "SQLiteToEntitiesMapper\SQLiteToEntitiesMapper.csproj", "{80AD6F55-AD18-4086-8D27-8EF46BE8A761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AD6F55-AD18-4086-8D27-8EF46BE8A761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AD6F55-AD18-4086-8D27-8EF46BE8A761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AD6F55-AD18-4086-8D27-8EF46BE8A761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AD6F55-AD18-4086-8D27-8EF46BE8A761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD06405-59BF-4BE7-A002-01C3A4AFD60E}
+	EndGlobalSection
+EndGlobal
