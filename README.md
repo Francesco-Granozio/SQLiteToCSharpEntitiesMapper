@@ -1,4 +1,4 @@
-### :it: :it: :it: Italiano:
+### <img src="readmeResources/it_flag.png" width="30" height="30"> Italiano:
 
 # SQLiteToCSharpEntitiesMapper
 
