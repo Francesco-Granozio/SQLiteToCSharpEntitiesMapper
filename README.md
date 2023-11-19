@@ -1,4 +1,7 @@
-### :it: :it: :it: Italiano:
+<div style="display: flex; align-items: center;">
+    <img src="readmeResources/it_flag.png" width="30" height="30" style="margin-right: 10px;">
+    <h3 style="margin: 0;">Italiano:</h3>
+</div>
 
 # SQLiteToCSharpEntitiesMapper
 
@@ -20,7 +23,7 @@ SQLiteToCSharpEntitiesMapper è uno strumento in C# che consente di generare aut
 
 ---
 
-### English:
+### <img src="readmeResources/gb_flag.png" width="30" height="30"> English:
 
 # SQLiteToCSharpEntitiesMapper
 
